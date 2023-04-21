@@ -1,6 +1,6 @@
-👋 Hi, I’m Juan José Churruarín. 
-🤓 Informatics Engineer  - CEMA University
-💻  Fullstack Javascript Engineer
+# 👋 Hi, I’m Juan José Churruarín. 
+## 🤓 Informatics Engineer  - CEMA University
+## 💻  Fullstack Javascript Engineer
 
 📧 jjchurruarin@gmail.com
 
